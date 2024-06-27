@@ -10,4 +10,8 @@
 GITHUB LINK: https://github.com/MytilinisV/lifting-equipment-app
 
 // GITHUB DISCLAIMER //
+<<<<<<< HEAD
 Ο φάκελος src, περιέχει τον κώδικα από το front-end κομμάτι της εφαρμογής. Είναι component του φακέλου lifting-equipment-page, ο οποίος είναι "blob" και δεν εμφανίζει το περιεχόμενό του στο GITHUB. 
+=======
+Ο φάκελος src, περιέχει τον κώδικα από το front-end κομμάτι της εφαρμογής. Είναι component του φακέλου lifting-equipment-page, ο οποίος είναι "blob" και δεν εμφανίζει το περιεχόμενό του στο GITHUB. 
+>>>>>>> 45d2ef32eece3d660c317dc8a045ff42019d80d5
